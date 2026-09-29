@@ -1,3 +1,5 @@
+https://thomastruffier-blanc.github.io/telecoms3/
+
 # Télécom 3 — Carnet de révision R306
 
 Site statique en français pour le BUT Réseaux & Télécommunications, semestre 3, 2026–2027.
